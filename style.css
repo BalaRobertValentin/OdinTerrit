@@ -84,9 +84,15 @@ button{
 .boxes h2{
     display: flex;
     justify-content: center;
-    color: #333;
+    color: rgb(0, 102, 255);
     margin-bottom: 50px;
     padding-top: 50px;
+    font-weight: bold;
+}
+.box p{
+    color: #1F2937;
+    font-size: 16px;
+    font-weight: bold;
 }
 .box img{
     border: 5px solid #3882F6;
